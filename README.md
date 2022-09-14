@@ -4,11 +4,6 @@
 * JDK 8
 * Maven
 
-##### To run tests in local machine
-* Appium Server
-* Android/iOS  Device/Simulators
-* Docker, Android SDKs
-
 ### Usage
 ```
 Runs the tests with given application file
