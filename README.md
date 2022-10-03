@@ -1,4 +1,4 @@
-# Automation practise HMRC Test - Cross Platform Automation Tests Framework
+# Automation practise Test - Cross Platform Automation Tests Framework
 
 ### Requirements
 * JDK 8
